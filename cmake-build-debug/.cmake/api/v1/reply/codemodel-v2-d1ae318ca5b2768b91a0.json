@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SimpleCode",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SimpleCode::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SimpleCode-Debug-a8c5cd52d668bcb5a6eb.json",
+					"name" : "SimpleCode",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Northeastern/Freshman/Fall Semester/GE 1501 Cornerstone of Engineering I/CLionProjects/Cornerstone Project/cmake-build-debug",
+		"source" : "D:/Northeastern/Freshman/Fall Semester/GE 1501 Cornerstone of Engineering I/CLionProjects/Cornerstone Project"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

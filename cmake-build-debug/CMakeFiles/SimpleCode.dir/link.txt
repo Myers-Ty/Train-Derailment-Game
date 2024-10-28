@@ -1,0 +1,3 @@
+"D:\Northeastern\Northeastern Software\CLion 2023.2.1\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\SimpleCode.dir/objects.a
+"D:\Northeastern\Northeastern Software\CLion 2023.2.1\bin\mingw\bin\ar.exe" qc CMakeFiles\SimpleCode.dir/objects.a @CMakeFiles\SimpleCode.dir\objects1.rsp
+"D:\Northeastern\Northeastern Software\CLion 2023.2.1\bin\mingw\bin\g++.exe" -g -Wl,--whole-archive CMakeFiles\SimpleCode.dir/objects.a -Wl,--no-whole-archive -o SimpleCode.exe -Wl,--out-implib,libSimpleCode.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SimpleCode.dir\linkLibs.rsp
